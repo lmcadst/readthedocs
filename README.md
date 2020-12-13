@@ -2,6 +2,17 @@
 
 **Container Image for building Read the Docs documentation.**
 
+Build the image
+
+```
+make build
+```
+
+To cleanup
+
+```
+make clean
+```
 
 ## Usage
 
